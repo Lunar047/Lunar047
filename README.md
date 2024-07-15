@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lunar047
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...html, css, javascript, C , C++ and  php and python.
+- 🌱 I’m currently learning ...ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sandeepsaurav700@gmail.com
 
